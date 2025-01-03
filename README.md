@@ -1,7 +1,5 @@
 # JuJu's Better Wynncraft
 
-**Download: [scyted.tv/resources/jujus-better-wynncraft](https://www.scyted.tv/resources/jujus-better-wynncraft/)**
-
 [<img alt="Modrinth Logo" width="200px" src="https://cdn.scyted.tv/jujus-better-wynncraft/modrinth.jpg" />](https://modrinth.com/collection/9IenzBF9/modpacks)
 [<img alt="Curseforge Logo" width="200px" src="https://cdn.scyted.tv/jujus-better-wynncraft/curseforge.jpg" />](https://www.curseforge.com/members/scytedtv/projects)
 
